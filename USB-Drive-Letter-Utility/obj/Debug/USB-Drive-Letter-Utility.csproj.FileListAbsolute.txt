@@ -1,0 +1,6 @@
+C:\Users\arkady\Desktop\USB Letter\USB-Drive-Letter-Utility\USB-Drive-Letter-Utility\bin\Debug\USB-Drive-Letter-Utility.exe.config
+C:\Users\arkady\Desktop\USB Letter\USB-Drive-Letter-Utility\USB-Drive-Letter-Utility\bin\Debug\USB-Drive-Letter-Utility.exe
+C:\Users\arkady\Desktop\USB Letter\USB-Drive-Letter-Utility\USB-Drive-Letter-Utility\bin\Debug\USB-Drive-Letter-Utility.pdb
+C:\Users\arkady\Desktop\USB Letter\USB-Drive-Letter-Utility\USB-Drive-Letter-Utility\obj\Debug\USB-Drive-Letter-Utility.csprojResolveAssemblyReference.cache
+C:\Users\arkady\Desktop\USB Letter\USB-Drive-Letter-Utility\USB-Drive-Letter-Utility\obj\Debug\USB-Drive-Letter-Utility.exe
+C:\Users\arkady\Desktop\USB Letter\USB-Drive-Letter-Utility\USB-Drive-Letter-Utility\obj\Debug\USB-Drive-Letter-Utility.pdb
